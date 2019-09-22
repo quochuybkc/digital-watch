@@ -1,5 +1,6 @@
 # digital-watch
 simple digital watch using esp8266
+
 Trương Quốc Huy
 
 1. Chuẩn bị
@@ -11,6 +12,7 @@ Trương Quốc Huy
 - arduino ide
 
 2. Kết nối
+
 Hai button 1 và 2 được nối với 2 chân GPIO 12 và 14 trên esp8266
 
 3. Hướng dẫn sử dụng
