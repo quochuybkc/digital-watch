@@ -8,7 +8,6 @@ unsigned int countMinute = 0;
 unsigned int countHour = 0;
 unsigned int count02s = 0, count1s = 0;
 unsigned int swcount_ms = 0, swSecond = 0, swMinute = 0;
-enum {state1, state2, state3, state4, state5} estate;
 enum {hourstate1, hourstate2} hourstate;
 enum {minutestate1, minutestate2} minutestate;
 enum {secondstate1, secondstate2} secondstate;
